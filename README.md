@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C#, HTML, CSS, Bootstrap, Javascript**
 
-- 📝 I regularly write articles on [https://hodeveloper.xyz](https://hodeveloper.xyz)
+- 📝 I regularly write articles on [www.hodeveloper.xyz](https://hodeveloper.xyz)
 
 - 📫 How to reach me **yusufyavuzcon@gmail.com**
 
