@@ -2,7 +2,7 @@
 <h3 align="center">A Game Developer in Turkey</h3>
 <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="400" frameBorder="0" allowFullScreen>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufhodyavuz&label=Profile%20views&color=0e75b6&style=flat" alt="yusufhodyavuz" /> </p>
+<p align="left"> <img src="https://im.ezgif.com/tmp/ezgif-1-40be83f438.gif" alt="yusufhodyavuz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufhodyavuz" alt="yusufhodyavuz" /></a> </p>
 
