@@ -1,9 +1,9 @@
-[![MasterHead](https://im.ezgif.com/tmp/ezgif-1-f97e71bab8.gif)]
+<img src="https://im.ezgif.com/tmp/ezgif-1-f97e71bab8.gif" align="center" width="400" alt="yusufhodyavuz" />
 <h1 align="center">Hi 👋, I'm Yusuf HoD Yavuz</h1>
 <h3 align="center">A Game Developer in Turkey</h3>
 
 
-<img src="https://im.ezgif.com/tmp/ezgif-1-f97e71bab8.gif" align="right" width="350" alt="yusufhodyavuz" />
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufhodyavuz" alt="yusufhodyavuz" /></a> </p>
 
