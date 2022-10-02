@@ -1,8 +1,9 @@
+[![MasterHead]()]
 <h1 align="center">Hi 👋, I'm Yusuf HoD Yavuz</h1>
 <h3 align="center">A Game Developer in Turkey</h3>
 
 
-<img src="https://im.ezgif.com/tmp/ezgif-1-40be83f438.gif" align="right" width="250" alt="yusufhodyavuz" />
+<img src="https://im.ezgif.com/tmp/ezgif-1-f97e71bab8.gif" align="right" width="250" alt="yusufhodyavuz" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufhodyavuz" alt="yusufhodyavuz" /></a> </p>
 
