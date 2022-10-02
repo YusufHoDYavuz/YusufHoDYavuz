@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf HoD Yavuz</h1>
 <h3 align="center">A Game Developer in Turkey</h3>
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" allowFullScreen>
-[<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47en2mjsr8nll7et3w5kzogszj2bgvaa19qeeio60q&rid=giphy.gif&ct=g)
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="400" frameBorder="0" allowFullScreen>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufhodyavuz&label=Profile%20views&color=0e75b6&style=flat" alt="yusufhodyavuz" /> </p>
 
